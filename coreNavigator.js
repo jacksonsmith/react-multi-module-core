@@ -22,7 +22,7 @@ function LoginScreen(props) {
   }
   
   
-  export function CoreNavigator(setLoggedIn) {
+export function LoginNavigator(setLoggedIn) {
     console.log(setLoggedIn)
   
     const MainStack = createNativeStackNavigator();

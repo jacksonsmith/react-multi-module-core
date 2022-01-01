@@ -4544,6 +4544,9 @@ log-symbols@^2.2.0:
   dependencies:
     chalk "^2.0.1"
 
+"loginModule@file:../LoginModule/lib":
+  version "0.0.0"
+
 logkitty@^0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.1.tgz#8e8d62f4085a826e8d38987722570234e33c6aa7"
